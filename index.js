@@ -1,6 +1,15 @@
 const farmAnimals = 'cow horse sheep pig chicken';
 const [moo, neigh, baa, oink, cluck] = farmAnimals.split(' ');
 
+const bessie = moo; 
+const dolly = baa;  
+const babe = oink;  
+const little = cluck;
+
+const blackAndWhite = moo; 
+const black = baa; 
+const pink = oink;
+
 
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
 const [red, orange, yellow, green, blue, indigo, violet] = colors;
